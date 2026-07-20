@@ -1,0 +1,23 @@
+name = input("Enter your name: ")
+email = input("Enter your email: ")
+mobile = int(input("Enter your Mobile number: "))
+city = input("Enter your city: ")
+gender = input("Enter your gender: ")
+degree = input("Enter your degree: ")
+cgpa = float(input("Enter your cgpa: "))
+decom = bool(input("Degree Completed? 'True' or 'False': "))
+course = input("Course name: ")
+enrollment = bool(input("Course enrolled? 'True' or 'False': "))
+
+print("your name : ",name)
+print("your email : ",email)
+print("your mobile.no : ",mobile)
+print("your city : ",city)
+print("your gender: ",gender)
+print("your degree : ",degree)
+print("your cgpa : ",cgpa)
+print("Degree Completed? : ",decom)
+print("your course : ",course)
+print("Course enrolled? : ",enrollment)
+
+
