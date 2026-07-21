@@ -14,4 +14,4 @@ elif per == 2 or per == 3:
 elif per == 4:
     print(50 * per * hour)
 else:
-    print("not more that 4 person can book a single console")
+    print("not more than 4 person can book a single console")
